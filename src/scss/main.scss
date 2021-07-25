@@ -1,0 +1,6 @@
+@use './example';
+
+body {
+    background: example.$background;
+    color: example.$white;
+}
